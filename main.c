@@ -3,6 +3,6 @@
 
 void main(void)
 {
-	printf("Built with version: %s", GIT_COMMIT_HASH);
-	return 0;
+	printf("Built with version: %s\n", GIT_COMMIT_HASH);
+	return;
 }
