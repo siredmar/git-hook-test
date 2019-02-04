@@ -1,2 +1,2 @@
-#define zzzz
+#define GIT_COMMIT_HASH zzzz
 
