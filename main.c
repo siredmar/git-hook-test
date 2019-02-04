@@ -4,6 +4,6 @@
 
 void main(void)
 {
-	printf("%s", GIT_COMMIT_HASH);
+	printf("Built with version: %s", GIT_COMMIT_HASH);
 	return 0;
 }
