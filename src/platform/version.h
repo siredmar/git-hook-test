@@ -1,2 +1,0 @@
-#define GIT_COMMIT_HASH "v1.0.0-12-g197749bdc9"
-
